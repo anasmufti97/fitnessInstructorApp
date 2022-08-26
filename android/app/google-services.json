@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "612916347970",
+    "firebase_url": "https://minervafitness-6b296.firebaseio.com",
+    "project_id": "minervafitness-6b296",
+    "storage_bucket": "minervafitness-6b296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612916347970:android:040d0f9b56e566093c99db",
+        "android_client_info": {
+          "package_name": "com.example.fitness_app_instructor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612916347970-p0dciokqn949ml7vbb1jsm6n6kl662lu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitness_app_instructor",
+            "certificate_hash": "16ca3e89e31152d3544e0dd5031ed2f0e8fdf34c"
+          }
+        },
+        {
+          "client_id": "612916347970-ekf48abifj963u0ro1tcugp2p43t14jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJEugrPmBo-1jK2u5HIFvHsxHqbIokqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612916347970-ekf48abifj963u0ro1tcugp2p43t14jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612916347970:android:637ef6234ff338a23c99db",
+        "android_client_info": {
+          "package_name": "com.example.fitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612916347970-shs6vdkbj83rh2681fbpbor2p550vklt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fitnessapp",
+            "certificate_hash": "16ca3e89e31152d3544e0dd5031ed2f0e8fdf34c"
+          }
+        },
+        {
+          "client_id": "612916347970-ekf48abifj963u0ro1tcugp2p43t14jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJEugrPmBo-1jK2u5HIFvHsxHqbIokqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612916347970-ekf48abifj963u0ro1tcugp2p43t14jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
